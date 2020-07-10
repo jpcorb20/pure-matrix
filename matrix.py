@@ -289,9 +289,9 @@ if __name__ == "__main__":
 
     # PCA
 
-    #pca = PCA()
-    #pca.fit(A)
-    #print(pca.transform(A).get_list())
+    pca = PCA()
+    pca.fit(A)
+    print(pca.transform(A).get_list())
 
     # KMean
 
