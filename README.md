@@ -1,2 +1,2 @@
-# pure-matrix
-Pure python matrix to do algebra with PCA and KMean implementations (simple algorithms).
+# Pure Python Matrix
+Pure python matrix code to do algebra with PCA (naive power iteration) and KMean (random initialization) implementations. 
